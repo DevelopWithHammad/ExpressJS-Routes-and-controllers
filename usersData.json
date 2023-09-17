@@ -1,0 +1,65 @@
+{
+    "Usersdata":
+    [
+        {
+            "id": 1,
+            "first_name": "Emmi",
+            "last_name": "Woolens",
+            "email": "ewoolens0@multiply.com"
+        },
+        {
+            "id": 2,
+            "first_name": "Rosette",
+            "last_name": "Winnard",
+            "email": "rwinnard1@yellowbook.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Xerxes",
+            "last_name": "Flewin",
+            "email": "xflewin2@tinypic.com"
+        },
+        {
+            "id": 4,
+            "first_name": "Cora",
+            "last_name": "Walenta",
+            "email": "cwalenta3@youtu.be"
+        },
+        {
+            "id": 5,
+            "first_name": "Brandice",
+            "last_name": "Clayborn",
+            "email": "bclayborn4@sfgate.com"
+        },
+        {
+            "id": 6,
+            "first_name": "Dewie",
+            "last_name": "Ecclestone",
+            "email": "decclestone5@networkadvertising.org"
+        },
+        {
+            "id": 7,
+            "first_name": "Griselda",
+            "last_name": "Bubbings",
+            "email": "gbubbings6@tuttocitta.it"
+        },
+        {
+            "id": 8,
+            "first_name": "Say",
+            "last_name": "Vedenyakin",
+            "email": "svedenyakin7@geocities.com"
+        },
+        {
+            "id": 9,
+            "first_name": "Leila",
+            "last_name": "Casserly",
+            "email": "lcasserly8@xing.com"
+        },
+        {
+            "id": 10,
+            "first_name": "Jone",
+            "last_name": "Pawlett",
+            "email": "jpawlett9@pinterest.com"
+        }
+    ]
+}
